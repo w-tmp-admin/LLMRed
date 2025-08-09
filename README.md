@@ -14,8 +14,6 @@ All findings are:
 
 Performed with benign payloads
 
-Responsibly disclosed to vendors before publication
-
 Redacted to prevent misuse
 
 Contents
